@@ -7,6 +7,6 @@
             <title>Hello page</title>
         </head>
         <body>
-            <h1>Hello from blade</h1>
+            <h1>Welcome , {{ $name }}</h1>
         </body>
         </html>
